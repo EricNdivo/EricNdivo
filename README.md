@@ -3,8 +3,7 @@
 
 * Eric Ndivo
 
-I`m Eric a software Developer from Kenya. I specialize on Software and Web development content. I code languages and frameworks such as React, Java script, Javascript,
-Python,C++,c and HTML, CSS and Javascript for Web development.
+I`m Eric a software Developer from Kenya. I specialize on Software and Web development content. Python,Django Developer with experience in front end languages as well.
 
 ## Skills and Experience
 * ⚛ React
