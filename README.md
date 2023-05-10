@@ -8,7 +8,7 @@ I`m Eric a software Developer from Kenya. I specialize on Software and Web devel
 ## Skills and Experience
 * ⚛ React
 * 💻 HTML, CSS, JS
-* 🐍 Python
+* 🐍 Python Django
 *  ©  C++
 
 Hit up my twitter at twitter.com/j_69whiskey
