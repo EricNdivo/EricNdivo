@@ -2,7 +2,9 @@
 
 
 
-I`m a software Developer . I specialize on Software and Web development. Python,Django Developer with experience in front end languages as well.
+I`m a software Developer . I specialize on Software and Web development. 
+
+Python,Django Developer with experience in front end languages as well.
 
 ## Skills and Experience
 * ⚛ React
@@ -11,8 +13,21 @@ I`m a software Developer . I specialize on Software and Web development. Python,
 * PHP
 * C++
 
+## Interests 
+👀 I’m interested in Software Engineering 
 
-Hit up my twitter at www.twitter.com/j_69whiskey
-Instagram @sain_enm
+🙂 Currently learning Javascript
+
+🐧 I have practical experience with Linux/Unix  operating systems.
+
+
+
+
+📫 Contact me
+🤙 Phone:+254 719 575 272 
+📩 Email: 
+
+🐧 Hit up my twitter at www.twitter.com/j_69whiskey
+💻  www.Instagram @sain_enm
 
 
