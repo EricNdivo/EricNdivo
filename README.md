@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
 
-* Eric Ndivo
 
 I`m a software Developer . I specialize on Software and Web development. Python,Django Developer with experience in front end languages as well.
 
@@ -12,7 +11,8 @@ I`m a software Developer . I specialize on Software and Web development. Python,
 * PHP
 * C++
 
-Hit up my twitter at twitter.com/j_69whiskey
+
+Hit up my twitter at www.twitter.com/j_69whiskey
 Instagram @sain_enm
 
 
