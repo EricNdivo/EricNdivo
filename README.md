@@ -22,10 +22,9 @@ Python,Django Developer with experience in front end languages as well.
 
 
 
-
 📫 Contact me
 🤙 Phone:+254 719 575 272 
-📩 Email: 
+📩 Email: j.ericndivo@gmail.com
 
 🐧 Hit up my twitter at www.twitter.com/j_69whiskey
 💻  www.Instagram @sain_enm
