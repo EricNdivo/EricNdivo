@@ -3,7 +3,7 @@
 
 
 I`m a software Developer . I specialize on Software and Web development. 
-Grey hat mindset, leveraging my expertise to explore and enhance security measures.
+
 
 
 ## Skills and Experience
