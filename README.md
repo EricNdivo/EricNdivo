@@ -14,7 +14,7 @@ I`m a software Developer . I specialize on Software and Web development.
 * C++
 
 ## Interests 
-👀 Interested in Software Engineering and 
+👀 Interested in Software Engineering 
 
 🐧Practical experience with Linux/Unix  operating systems.
 
