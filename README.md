@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Yo! 👋 
 
 
 
@@ -16,9 +16,7 @@ I`m a software Developer . I specialize on Software and Web development.
 ## Interests 
 👀 Interested in Software Engineering and 
 
-🙂 Currently learning Javascript
-
-🐧 I have practical experience with Linux/Unix  operating systems.
+🐧Practical experience with Linux/Unix  operating systems.
 
 
 📫 Contact me
