@@ -1,11 +1,6 @@
 ### Yo! 👋 
 
 
-
-I`m a software Developer . I specialize on Software and Web development. 
-
-
-
 ## Skills and Experience
 * ⚛ React
 * 💻 HTML, CSS, JS
